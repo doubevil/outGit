@@ -1,3 +1,3 @@
 create by oTer,2018-05-30
-Git is a version control system.
-Git is free software.
+First:master,head->master
+New branch:create new Pointer "br",head->br
